@@ -1,0 +1,6 @@
+http://example.com/2024/10/04/Linux/
+http://example.com/2024/10/04/Mysql/
+http://example.com/2024/10/21/hello-world/
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/
